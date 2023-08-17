@@ -1,7 +1,7 @@
 <h1 align="center"><b>Validate-Credit-Card-Numbers-in-cpp</b></h1>
 <p align="center"><u>Project Status: 🟢 - Complete</u></p>
 <h3 align="left"><u>Overview:</u></h3>
-<p align="left">In this project you enter a credit card number in the terminal and it will check if it is a valid number.</p>
+<p align="left">In this project you enter a credit card number in the terminal and it will check if it is a valid number.\<br>Use looped.cpp to have the program constantly loop.</p>
 <h3 align="left"><u>Langauges:</u></h3>
 <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" width="40" height="45"/> </a>
